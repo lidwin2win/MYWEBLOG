@@ -1,0 +1,2 @@
+# MYWEBLOG
+simple weblog 
